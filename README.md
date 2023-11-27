@@ -10,4 +10,7 @@
 
 ## List of codes to plot figures
 
-1. [Figure 1](https://github.com/cohenaginglab/EWS-comparison/blob/0df9b5b94e0e679a62c99d08cbf04aa004d6e9a7/Figure%201.R)
+1. [Figure 1](https://github.com/cohenaginglab/EWS-comparison/blob/0df9b5b94e0e679a62c99d08cbf04aa004d6e9a7/Figure%201.R): distributions of indices
+2. [Figure 2](https://github.com/cohenaginglab/EWS-comparison/blob/4480f89ac4a0209deece4a40136ac05a7d38dd62/Figure%202.R): correlations among indices
+3. [Figure 3](): trends before death for each index
+4. [Figure 4](): mortality prediction
