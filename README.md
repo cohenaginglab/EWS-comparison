@@ -8,6 +8,6 @@
 3. [Indices calculation_diff time windows](https://github.com/cohenaginglab/EWS-comparison/blob/a5e2c78c5a23420aff689caf02245bf0fd6bf898/Indices%20calculation_diff%20time%20windows.R): used for Supplementary Figs 3-6
 4. [MMD calculation_no avg](https://github.com/cohenaginglab/EWS-comparison/blob/8ec3655cc92c90507f5d534fa2b2510b1f3d624c/MMD%20calculation_no%20avg.R): used for Fig. 4
 
-## List of code names and the figures to which they correspond
+## List of codes to plot figures
 
-1. 
+1. [Figure 1](https://github.com/cohenaginglab/EWS-comparison/blob/0df9b5b94e0e679a62c99d08cbf04aa004d6e9a7/Figure%201.R)
