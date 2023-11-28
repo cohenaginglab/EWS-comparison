@@ -4,7 +4,7 @@
 
 ## Codes for indices calculation
 1. [Functions for indices calculation](https://github.com/cohenaginglab/EWS-comparison/blob/8e2aa15708d72307806d13206d5c0612803bfa75/Functions%20for%20indices%20calculation.R)
-2. [Indices calculation](https://github.com/cohenaginglab/EWS-comparison/blob/2cfa38d173da072e381d15e1c7827c2de609de14/Indices%20calculation.R): used for all figures
+2. [Indices calculation](https://github.com/cohenaginglab/EWS-comparison/blob/2cfa38d173da072e381d15e1c7827c2de609de14/Indices%20calculation.R): used for all figures except Suppl Fig. 4
 3. [Indices calculation_diff time windows](https://github.com/cohenaginglab/EWS-comparison/blob/a5e2c78c5a23420aff689caf02245bf0fd6bf898/Indices%20calculation_diff%20time%20windows.R): used for Supplementary Figs 3-6
 4. [MMD calculation_no avg](https://github.com/cohenaginglab/EWS-comparison/blob/8ec3655cc92c90507f5d534fa2b2510b1f3d624c/MMD%20calculation_no%20avg.R): used for Fig. 4
 
@@ -18,3 +18,4 @@
 ## Codes for supplementary figures
 1. [Supp figure 1](https://github.com/cohenaginglab/EWS-comparison/blob/58ad293ed33e682dbfea923b71368922ed5b04a1/Supp%20figure%201.R): Effect of variable transformation on indices calculation
 2. [Supp figure 2](https://github.com/cohenaginglab/EWS-comparison/blob/08362a60eedc7ebe55af3448212ca54998d94064/Supp%20figure%202.R): Effect of variable transformation on NMV calculation
+3. [Supp figures 3 and 4](https://github.com/cohenaginglab/EWS-comparison/blob/3acccd51c15d0373c640325c66a2c7ec2465c23f/Supp%20figures%203%20and%204.R): Correlations among indices calculated using different time windows
