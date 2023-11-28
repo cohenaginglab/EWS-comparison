@@ -17,3 +17,4 @@
 
 ## Codes for supplementary figures
 1. [Supp figure 1](https://github.com/cohenaginglab/EWS-comparison/blob/58ad293ed33e682dbfea923b71368922ed5b04a1/Supp%20figure%201.R): Effect of variable transformation on indices calculation
+2. [Supp figure 2](https://github.com/cohenaginglab/EWS-comparison/blob/08362a60eedc7ebe55af3448212ca54998d94064/Supp%20figure%202.R): Effect of variable transformation on NMV calculation
