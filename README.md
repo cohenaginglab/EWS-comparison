@@ -19,3 +19,5 @@
 1. [Supp figure 1](https://github.com/cohenaginglab/EWS-comparison/blob/58ad293ed33e682dbfea923b71368922ed5b04a1/Supp%20figure%201.R): Effect of variable transformation on indices calculation
 2. [Supp figure 2](https://github.com/cohenaginglab/EWS-comparison/blob/08362a60eedc7ebe55af3448212ca54998d94064/Supp%20figure%202.R): Effect of variable transformation on NMV calculation
 3. [Supp figures 3 and 4](https://github.com/cohenaginglab/EWS-comparison/blob/3acccd51c15d0373c640325c66a2c7ec2465c23f/Supp%20figures%203%20and%204.R): Correlations among indices calculated using different time windows
+4. [Supp figure 5](https://github.com/cohenaginglab/EWS-comparison/blob/453964a0ebb83c2888c459806f547148c683d8b8/Supp%20figure%205.R): Effect of time window used for indices calculation on trends before death
+5. [Supp figure 6](): Effect of time window used for indices calculation on mortality prediction
